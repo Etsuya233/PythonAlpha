@@ -43,7 +43,7 @@ elif pw != "fnndp":
         elif pw != 'fnndp':
             print('请重新输入用户名!')
             
-
+#其实还可以写得更简单的 我这时为什么那么傻写那么长
 
 print('已完成！')
 print('Etsuya!')
